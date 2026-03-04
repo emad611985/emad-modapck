@@ -3,11 +3,13 @@
   <h1>🎮 مودباك Emad</h1>
   <p><b>تجربة ماينكرافت محسّنة وجمالية (1.21.1)</b></p>
 
-  <a href="https://modrinth.com/modpack/emad-modpack">
-    <img src="https://img.shields.io/badge/Modrinth-Download-00AD5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="تحميل من Modrinth">
-  </a>
-  <img src="https://img.shields.io/badge/Minecraft-1.21.1-blue?style=for-the-badge&logo=minecraft&logoColor=white" alt="إصدار ماينكرافت">
-  <img src="https://img.shields.io/badge/Loader-Fabric-orange?style=for-the-badge&logo=fabric&logoColor=white" alt="لودر Fabric">
+  <p>
+    <a href="https://modrinth.com/modpack/emad-modapck/versions">
+      <img src="https://img.shields.io/badge/أحدث_إصدار-تحميل-00AD5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="تحميل أحدث إصدار">
+    </a>
+    <img src="https://img.shields.io/badge/Minecraft-1.21.1-blue?style=for-the-badge&logo=minecraft&logoColor=white" alt="إصدار ماينكرافت">
+    <img src="https://img.shields.io/badge/Loader-Fabric-orange?style=for-the-badge&logo=fabric&logoColor=white" alt="لودر Fabric">
+  </p>
 </div>
 
 ---
@@ -40,7 +42,7 @@
 ### 🛠️ جودة حياة لا غنى عنها
 اجعل مغامراتك في ماينكرافت أكثر راحة ومتعة مع إضافات جودة الحياة التي تسهل عليك المهام اليومية وتوفر لك معلومات قيمة دون إفساد تجربة الفانيلا.
 - **Jade:** لعرض معلومات مفصلة عن الكتل والكائنات التي تنظر إليها.
-- **Xaero's Maps:** لخرائط مصغرة وعالمية مفصلة.
+- **Xaero\"s Maps:** لخرائط مصغرة وعالمية مفصلة.
 - **AppleSkin:** لعرض معلومات دقيقة عن الجوع والشبع.
 
 ---
@@ -48,7 +50,7 @@
 ## 📦 كيفية التثبيت
 
 1.  تأكد من تثبيت [Modrinth App](https://modrinth.com/app) أو أي لانشر يدعم ملفات `.mrpack`.
-2.  قم بتحميل أحدث إصدار من [Modrinth](https://modrinth.com/modpack/emad-modapck).
+2.  قم بتحميل أحدث إصدار من [Modrinth](https://modrinth.com/modpack/emad-modapck/versions).
 3.  افتح الملف باستخدام لانشر Modrinth أو قم باستيراده يدوياً.
 4.  استمتع بتجربة ماينكرافت المحسّنة!
 

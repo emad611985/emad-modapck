@@ -3,11 +3,13 @@
   <h1>🎮 Emad\'s Modpack</h1>
   <p><b>Enhanced & Aesthetic Minecraft Experience (1.21.1)</b></p>
 
-  <a href="https://modrinth.com/modpack/emad-modapck">
-    <img src="https://img.shields.io/badge/Modrinth-Download-00AD5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth Download">
-  </a>
-  <img src="https://img.shields.io/badge/Minecraft-1.21.1-blue?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Version">
-  <img src="https://img.shields.io/badge/Loader-Fabric-orange?style=for-the-badge&logo=fabric&logoColor=white" alt="Fabric Loader">
+  <p>
+    <a href="https://modrinth.com/modpack/emad-modapck/versions">
+      <img src="https://img.shields.io/badge/Latest_Release-Download-00AD5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Latest Release Download">
+    </a>
+    <img src="https://img.shields.io/badge/Minecraft-1.21.1-blue?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Version">
+    <img src="https://img.shields.io/badge/Loader-Fabric-orange?style=for-the-badge&logo=fabric&logoColor=white" alt="Fabric Loader">
+  </p>
 </div>
 
 ---
@@ -48,7 +50,7 @@ Streamline daily tasks and provide valuable information without spoiling the van
 ## 📦 Installation
 
 1.  Ensure you have the [Modrinth App](https://modrinth.com/app) or any `.mrpack` compatible launcher.
-2.  Download the latest release from [Modrinth](https://modrinth.com/modpack/emad-modapck).
+2.  Download the latest release from [Modrinth](https://modrinth.com/modpack/emad-modapck/versions).
 3.  Import the file and enjoy!
 
 ---
