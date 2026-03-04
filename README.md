@@ -4,7 +4,7 @@
   <p><b>Enhanced & Aesthetic Minecraft Experience (1.21.1)</b></p>
 
   <p>
-    <a href="https://modrinth.com/modpack/emad-modapck/versions">
+    <a href="https://modrinth.com/modpack/emad-modpack/versions">
       <img src="https://img.shields.io/badge/Latest_Release-Download-00AD5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Latest Release Download">
     </a>
     <img src="https://img.shields.io/badge/Minecraft-1.21.1-blue?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Version">
