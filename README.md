@@ -4,10 +4,10 @@
   <p><b>Enhanced & Aesthetic Minecraft Experience (1.21.1)</b></p>
 
   <p>
-    <a href="https://modrinth.com/modpack/emad-modpack/version/2.0.0">
+    <a href="https://modrinth.com/modpack/emad-modpack/version/2.1.1">
       <img src="https://img.shields.io/badge/Latest_Release-Download-00AD5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Latest Release Download">
     </a>
-    <img src="https://img.shields.io/badge/Minecraft-1.21.1-blue?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Version">
+    <img src="https://img.shields.io/badge/Minecraft-26.2-blue?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Version">
     <img src="https://img.shields.io/badge/Loader-Fabric-orange?style=for-the-badge&logo=fabric&logoColor=white" alt="Fabric Loader">
   </p>
 </div>
