@@ -1,5 +1,5 @@
 ![https://github.com/emad611985/emad-modapck](https://cdn.modrinth.com/data/cached_images/6fe251e43f7b348b1b580921f7342915583098a6.png)
-  <h1>🎮 Emad\'s Modpack</h1>
+  <h1>🎮 Emad Modpack</h1>
   <p><b>Enhanced & Aesthetic Minecraft Experience (1.21.1)</b></p>
 
   <p>
